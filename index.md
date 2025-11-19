@@ -21,7 +21,7 @@ I was an undergraduate at Princeton University and a master's student at [Cambri
 
 - Coming soon :)
 
-## Talks and Conferences
+## Invited Talks
 
 
 | ---- | ----: |
