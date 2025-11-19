@@ -3,18 +3,24 @@
 
 @import "{{ site.theme }}";
 
-/* Hide the left header / sidebar */
-.wrapper > header {
-  display: none;
-}
-
-/* Hide the default footer ("Hosted on GitHub Pages — Theme by orderedlist") */
+/* Hide the left header / sidebar and the default footer */
+.wrapper > header,
 .wrapper > footer {
   display: none;
 }
 
-/* Let the main content use the full width */
+/* Center the whole page content */
+.wrapper {
+  max-width: 900px;     /* width of your content column */
+  margin: 0 auto;       /* centers the wrapper itself */
+  padding: 40px 20px;   /* space around your content */
+}
+
+/* Make the main section behave like a normal centered block */
 .wrapper > section {
-  margin: 0 auto;        
-  padding-left: 0;
+  float: none;          /* stop floating to the right */
+  width: 100%;          /* use the full wrapper width */
+  max-width: 900px;     /* match the wrapper width */
+  margin: 0 auto;       /* center, just in case */
+  padding: 0;
 }
