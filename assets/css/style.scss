@@ -10,6 +10,6 @@
 
 /* Let the main content use the full width */
 .wrapper > section {
-  margin: 0;        /* remove the left offset that made room for the sidebar */
+  margin: 0 auto;        
   padding-left: 0;
 }
