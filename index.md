@@ -9,7 +9,7 @@ I am a third year PhD student at [Princeton University](https://www.math.princet
 
 I am interested in general relativity and partial differential equations. Here is my [CV](cv.pdf) (updated 11/19/2025).
 
-I was an undergraduate at Princeton and a master's student at [Cambridge University](https://www.maths.cam.ac.uk).
+I was an undergraduate at Princeton University and a master's student at [Cambridge University](https://www.maths.cam.ac.uk).
 
 ## Publications and Preprints
 
