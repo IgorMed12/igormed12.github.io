@@ -8,6 +8,11 @@
   display: none;
 }
 
+/* Hide the default footer ("Hosted on GitHub Pages — Theme by orderedlist") */
+.wrapper > footer {
+  display: none;
+}
+
 /* Let the main content use the full width */
 .wrapper > section {
   margin: 0 auto;        
