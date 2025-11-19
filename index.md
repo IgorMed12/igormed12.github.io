@@ -19,14 +19,15 @@ I was an undergraduate at Princeton and a master's student at [Cambridge Univers
 
 - Coming soon :)
 
-## Teaching
-
-- Course Name (Semester Year), Role (Instructor / TA)  
-- Course Name (Semester Year), Role
-
 ## Talks and Conferences
 
--
+
+| ---- | ----: |
+| *Stability of Minkowski space using the r^p method*, [Gran Sasso Science Institute](https://www.gssi.it/research-area/maths-research) | June 2025 |
+
+## Expository Notes
+
+- *A note on null hypersurfaces and the compatible currents identity*
 
 ## Contact
 
