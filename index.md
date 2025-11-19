@@ -25,7 +25,7 @@ I was an undergraduate at Princeton University and a master's student at [Cambri
 
 
 | ---- | ----: |
-| *Stability of Minkowski space using the r^p method*, [Gran Sasso Science Institute](https://www.gssi.it/research-area/maths-research) | June 2025 |
+| [Gran Sasso Science Institute](https://www.gssi.it/research-area/maths-research) | June 2025 |
 
 ## Expository Notes
 
