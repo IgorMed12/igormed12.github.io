@@ -5,7 +5,7 @@ title: Igor Medvedev
 
 # Igor Medvedev
 
-<img src="/assets/img/Igor-1.jpg" alt="Igor" style="width:180px; border-radius:50%;">
+<img src="/assets/img/Igor-1.jpg" alt="Igor" style="width:180px;">
 
 I am a third year PhD student at [Princeton University](https://www.math.princeton.edu), advised by [Mihalis Dafermos](https://web.math.princeton.edu/~dafermos/). 
 
