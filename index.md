@@ -5,6 +5,8 @@ title: Igor Medvedev
 
 # Igor Medvedev
 
+<img src="/assets/img/Igor-1.jpg" alt="Igor" style="width:180px; border-radius:50%;">
+
 I am a third year PhD student at [Princeton University](https://www.math.princeton.edu), advised by [Mihalis Dafermos](https://web.math.princeton.edu/~dafermos/). 
 
 I am interested in general relativity and partial differential equations. Here is my [CV](cv.pdf) (updated 11/19/2025).
