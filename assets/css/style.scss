@@ -1,0 +1,12 @@
+@import "{{ site.theme }}";
+
+/* Hide the left header / sidebar */
+.wrapper > header {
+  display: none;
+}
+
+/* Let the main content use the full width */
+.wrapper > section {
+  margin: 0;        /* remove the left offset that made room for the sidebar */
+  padding-left: 0;
+}
