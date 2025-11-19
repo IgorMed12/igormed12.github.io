@@ -9,7 +9,7 @@ title: Igor Medvedev
 
 I am a third year PhD student at [Princeton University](https://www.math.princeton.edu), advised by [Mihalis Dafermos](https://web.math.princeton.edu/~dafermos/). 
 
-I am interested in general relativity and partial differential equations. Here is my [CV](cv.pdf) (updated 11/19/2025).
+I am interested in general relativity and partial differential equations. Here is my [CV](assets/cv/IgorMedvedevCV.pdf) (updated 11/19/2025).
 
 I was an undergraduate at Princeton University and a master's student at [Cambridge University](https://www.maths.cam.ac.uk).
 
