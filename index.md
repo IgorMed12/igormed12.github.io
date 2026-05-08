@@ -15,7 +15,7 @@ I was an undergraduate at Princeton University and a master's student at [Cambri
 
 ## Publications and Preprints
 
-- **Coming soon**  *:)*
+- **A short proof of stability of Minkowski space in harmonic gauge using the rp method**  *(in preparation)*
 
 ## Code
 
